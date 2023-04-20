@@ -15,9 +15,7 @@ Full Stack ChatApp  with Flutter, Firebase & Riverpod 2.0!
 - Auto Scroll on New Messages
 
 
-<p align="center">
-  <img width="600" src="https://github.com/RivaanRanawat/flutter-whatsapp-clone/blob/master/screenshot.jpg" alt="Youtube Tutorial Image">
-</p>
+
 
 
 ## Installation
