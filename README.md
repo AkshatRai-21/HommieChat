@@ -1,4 +1,4 @@
-# ChatApp Clone
+# ChatApp
 
 Full Stack ChatApp  with Flutter, Firebase & Riverpod 2.0!
 
