@@ -1,6 +1,6 @@
 # ChatApp Clone
 
-Full Stack ChatApp Clone with Flutter, Firebase & Riverpod 2.0!
+Full Stack ChatApp  with Flutter, Firebase & Riverpod 2.0!
 
 ## Features
 - Phone Number Authentication
