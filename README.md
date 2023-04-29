@@ -1,4 +1,4 @@
-# ChatApp
+# HOMMIE CHAT 
 
 Full Stack ChatApp  with Flutter, Firebase & Riverpod 2.0!
 
