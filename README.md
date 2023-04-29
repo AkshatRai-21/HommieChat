@@ -19,7 +19,7 @@ Full Stack ChatApp  with Flutter, Firebase & Riverpod 2.0!
 
 
 ## Installation
-After cloning this repository, migrate to ```ChatApp``` folder. Then, follow the following steps:
+After cloning this repository, migrate to ```HommieChat``` folder. Then, follow the following steps:
 - Create Firebase Project
 - Run the commands:
   - npm install -g firebase-tools
