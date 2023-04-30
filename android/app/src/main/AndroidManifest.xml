@@ -14,7 +14,7 @@
     <uses-permission android:name="android.permission.BLUETOOTH"/>
 
    <application
-        android:label="Chat App"
+        android:label="Hommie Chat"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
